@@ -7,15 +7,13 @@ date: '2021-08-09 13:32:20 -0600'
 description: 연결리스트 C언어로 표현하기.
 img: posts/20210125/Perceptron.jpg
 tags:
-  - machine learning
   - coding
-  - neural networks
 author: Armando Maynez
-github: amaynez/Perceptron/
+github:
 mathjax: 'yes'
 published: true
 ---
-# 연결(LInked) 리스트
+## 연결(LInked) 리스트
 
 링크드 리스트(Linked List)는 리스트를 구현하는 여러가지 기법 중에서도 간단한 방법으로 사용되는 자료구조 이다. 
 
