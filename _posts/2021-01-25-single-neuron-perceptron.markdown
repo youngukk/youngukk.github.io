@@ -19,7 +19,7 @@ published: true
 
 리스트 내의 각 요소는 노드(Node)라고 부른다. 연결 리스트는 '노드를 연결해서 만드는 리스트'라고 해서 붙여진 이름이다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05922b98-55f4-44cc-b1fa-906ccacaf4fe/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05922b98-55f4-44cc-b1fa-906ccacaf4fe/Untitled.png)
+<img src="./assets/img/posts/20210125/2021_08_11_Node.png" alt=""/>
 
 위 그림처럼 데어터와 포인터로 이루어진 노드들을 엮으면 링크드 리스트가 되는 것이다
 
@@ -169,7 +169,7 @@ void SLL_AppendNode (Node* Head, Node* NewNode)를 선언 한다는 것은 SLL_A
 
 이렇게 사용할 경우 우리가 원하는 결과는 list 주소에 NewNode의 주소값을 대입하는 것인데 밑에 결과값을 본다면 여전히 list에는 NULL값이 들어가 있는것을 확인할수 있다
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90a48d28-cbe7-41bb-9d98-b440207f03fa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90a48d28-cbe7-41bb-9d98-b440207f03fa/Untitled.png)
+<img src="./assets/img/posts/20210125/2021_08_11_Head1.png" alt=""/>
 
 반면  Node** Head로 받는경우에는 SLL_AppendNode( ) 함수를 다음과 같이 사용할수 있다
 
@@ -182,8 +182,7 @@ void SLL_AppendNode (Node* Head, Node* NewNode)를 선언 한다는 것은 SLL_A
 
 위 코드의 SLL_AppendNode( ) 함수를 사용한다면 우리가 원했던 list 주소에 NewNode의 주소값을 대입하여 같은 값인것을 확인할 수 있을것이다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0db7c0d0-77b9-47df-8f4d-783c44b16503/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0db7c0d0-77b9-47df-8f4d-783c44b16503/Untitled.png)
-
+<img src="./assets/img/posts/20210125/2021_08_11_Head2.png" alt=""/>
 ## 노드 탐색
 
 연결 리스트에서 원하는 노드를 탐색하기 위해서는 헤드부터 시작하여 테일까지 하나하나 찾아가 원하는 노드를 접근할수 있다. 이는 시간이 많이 소요될 수 있으며 연결 리스트가 갖는 단점중에 하나이다
@@ -246,7 +245,7 @@ void SLL_InsertAfter(Node* Current, Node* NewNode)
 }
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddb8374b-a4e5-4a68-9d85-e0b48171f1c7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddb8374b-a4e5-4a68-9d85-e0b48171f1c7/Untitled.png)
+<img src="./assets/img/posts/20210125/2021_08_11_InsertAfter" alt=""/>
 
 그림으로 설명하면 이런식으로 표현할수 있다.
 
