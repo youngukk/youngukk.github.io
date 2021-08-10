@@ -291,3 +291,7 @@ void SLL_InsertNewHead(Node** Head, Node* NewHead)
 하지만 다음 노드를 가리키려는 포인터 때문에 각 노드마다 추가 메모리가 발생하고 특정 위치에 있는 노드를 얻는데 드는 비용이 크며 속도도 느리다.
 
 이것은  레코드를 순차적으로 다루는 작업에 적합하다고 볼 수 있다.
+
+실행결과는 다음과 같다
+
+<img src="./assets/img/posts/20210125/2021_08_11_result.jpg" alt=""/>
