@@ -366,3 +366,9 @@ int main(void)
     return 0;
 }
 ```
+
+이것은  레코드를 순차적으로 다루는 작업에 적합하다고 볼 수 있다.
+
+실행결과는 다음과 같다
+
+<img src="./assets/img/posts/20210125/2021_08_11_result.jpg" alt=""/>
