@@ -183,6 +183,7 @@ void SLL_AppendNode (Node* Head, Node* NewNode)를 선언 한다는 것은 SLL_A
 위 코드의 SLL_AppendNode( ) 함수를 사용한다면 우리가 원했던 list 주소에 NewNode의 주소값을 대입하여 같은 값인것을 확인할 수 있을것이다.
 
 <img src="./assets/img/posts/20210125/2021_08_11_Head2.png" alt=""/>
+
 ## 노드 탐색
 
 연결 리스트에서 원하는 노드를 탐색하기 위해서는 헤드부터 시작하여 테일까지 하나하나 찾아가 원하는 노드를 접근할수 있다. 이는 시간이 많이 소요될 수 있으며 연결 리스트가 갖는 단점중에 하나이다
@@ -245,7 +246,7 @@ void SLL_InsertAfter(Node* Current, Node* NewNode)
 }
 ```
 
-<img src="./assets/img/posts/20210125/2021_08_11_InsertAfter" alt=""/>
+<img src="./assets/img/posts/20210125/2021_08_11_InsertAfter.png" alt=""/>
 
 그림으로 설명하면 이런식으로 표현할수 있다.
 
