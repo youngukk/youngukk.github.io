@@ -1,6 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="480" preserveAspectRatio="xMidYMid meet">
-<g id="Symbol">
-<g fill="#455A5E" stroke="none">
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="1925.000000pt" height="363.000000pt" viewBox="0 0 1925.000000 363.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,363.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
 <path d="M6910 2560 l-40 -40 0 -668 0 -668 36 -42 36 -42 677 0 678 0 36 40
 37 39 0 667 c0 658 0 666 -21 695 -43 61 -16 59 -739 59 l-660 0 -40 -40z
 m457 -507 l82 -88 1 88 0 87 65 0 65 0 0 -280 0 -280 -65 0 -65 0 0 88 -1 87
@@ -38,6 +44,5 @@ m11 -279 c15 -15 20 -34 20 -75 1 -66 -20 -93 -77 -103 l-37 -6 0 108 0 108
 20 155 61 6 14 10 144 10 290 l0 264 -50 0 c-45 0 -50 -2 -50 -22 l0 -21 -25
 23 c-34 32 -109 38 -151 11z m157 -67 c15 -18 25 -174 15 -228 -13 -68 -70
 -90 -103 -39 -26 39 -26 217 0 256 20 31 66 37 88 11z"/>
-</g>
 </g>
 </svg>
