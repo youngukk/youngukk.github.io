@@ -7,11 +7,11 @@ date: '2021-08-09 13:32:20 -0600'
 description: 연결리스트 C언어로 표현하기.
 img: posts/20210125/Perceptron.jpg
 tags:
-  - coding
+  - [coding, 자료구조, 알고리즘, c언어]
 author: Younguk Kim
 github: null
 mathjax: 'yes'
-published: true
+toc: yes
 ---
 자료구조나 알고리즘은 정보처리기사나 전공과목으로 기초 이론은 공부 했었지만 C언어로 직접 구현하는것은 정말 어려웠다. 진짜 어떤식으로 이 자료구조나 알고리즘이 사용되는지는 알았지만 직접 사용하고 구현하는거는 나에게는 정말 어렵게 다가왔습니다
 
