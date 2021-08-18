@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: 연결리스트 C언어로 표현하기
+title: 이중 연결 리스트(c언어)
 date: '2021-08-18 21:55:40 -0600'
 description: 이중 연결 리스트(c언어)
 img: posts/20210818/arnold-francisca-f77Bh3inUpE-unsplash.jpg
